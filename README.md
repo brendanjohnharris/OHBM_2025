@@ -1,5 +1,5 @@
 # OHBM_2025
-Poster file for "_Spatiotemporal theta--gamma waves organize hierarchical processing in the mouse visual cortex_", presented at OHBM 2025 in Brisbane (Poster 2072, 27th & 28th June)
+Poster file for "_Nested spatiotemporal dynamics organize hierarchical processing in the mouse visual cortex_", presented at OHBM 2025 in Brisbane (Poster 2072, 27th & 28th June)
 
 ## Additional links
 
